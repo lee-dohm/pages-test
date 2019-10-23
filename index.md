@@ -1,3 +1,5 @@
 # Pages Test
 
-Some stuff goes here.
+This page is written in Markdown.
+
+[This other page is written in HTML.](./test.html)
